@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @winslause
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me wenbusale383@gmail.com
 
