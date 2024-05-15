@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @winslause
+- 👋 Hi, I’m winslause
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me wenbusale383@gmail.com
+- 🌱 I’m good in django, flask, angular, php
+- 💞️ I’m looking to collaborate on any programming project
+- 📫 How to reach me: wenbusale383@gmail.com
 
 <!---
 winslause/winslause is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
